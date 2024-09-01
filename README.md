@@ -6,7 +6,7 @@ O FinanceLog é uma aplicação desenvolvida para um projeto acadêmico na disci
 
 # Acesse o Wiki do FinanceLog 👇
 
-Na página Wiki, você encontrará os TGs. Basta acessar este link: 
+Na página Wiki, você encontrará os TGs. Basta acessar este link: https://github.com/FinanceLog/FinanceLog/wiki
 
 # Integrantes 🔽
 
