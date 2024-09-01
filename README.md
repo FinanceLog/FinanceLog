@@ -15,4 +15,4 @@ Na página Wiki, você encontrará os TGs. Basta acessar este link:
   <li>Fernanda Maffei Fabretti - <a href="mailto:10409067@mackenzista.com.br">10409067@mackenzista.com.br</a> - RA: 10409067 </li>
 </ul>
 
-![channels4_banner (1)](https://github.com/user-attachments/assets/946e98dd-564c-4093-bf12-a2b49965aca5)
+![channels4_banner](https://github.com/user-attachments/assets/1021f93c-13a9-486a-8c5c-80624679bb57)
