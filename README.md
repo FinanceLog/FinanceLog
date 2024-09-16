@@ -16,3 +16,4 @@ Na página Wiki, você encontrará os TGs. Basta acessar este link: https://gith
 </ul>
 
 ![channels4_banner](https://github.com/user-attachments/assets/1021f93c-13a9-486a-8c5c-80624679bb57)
+
