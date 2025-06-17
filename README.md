@@ -11,8 +11,8 @@ Na página Wiki, você encontrará os TGs. Basta acessar este link: https://gith
 # Integrantes 🔽
 
 <ul>
-  <li> Beatriz Pimenta de Camargo - <a href="mailto:10428378@mackenzista.com.br">10428378@mackenzista.com.br</a> - RA: 10428378 </li>
-  <li> Fernanda Maffei Fabretti - <a href="mailto:10409067@mackenzista.com.br">10409067@mackenzista.com.br</a> - RA: 10409067 </li>
+  <li> Beatriz Pimenta de Camargo - <a href="mailto:10428378@mackenzista.com.br">10428378@mackenzista.com.br</a> - RA: </li>
+  <li> Fernanda Maffei Fabretti - <a href="mailto:10409067@mackenzista.com.br">10409067@mackenzista.com.br</a> - RA: </li>
 </ul>
 
 ![channels4_banner](https://github.com/user-attachments/assets/1021f93c-13a9-486a-8c5c-80624679bb57)
