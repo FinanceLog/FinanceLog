@@ -11,8 +11,8 @@ Na página Wiki, você encontrará os TGs. Basta acessar este link: https://gith
 # Integrantes 🔽
 
 <ul>
-  <li> Beatriz Pimenta de Camargo - RA: </li>
-  <li> Fernanda Maffei Fabretti - RA: </li>
+  <li> Beatriz Pimenta de Camargo </li>
+  <li> Fernanda Maffei Fabretti </li>
 </ul>
 
 ![channels4_banner](https://github.com/user-attachments/assets/1021f93c-13a9-486a-8c5c-80624679bb57)
